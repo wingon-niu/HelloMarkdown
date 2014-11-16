@@ -25,7 +25,8 @@
 
 <br>
 
-- ~abc~
-- def
+- ~~aaa~~
+- <del>bbb</del>
+- ccc
 
 <br>
