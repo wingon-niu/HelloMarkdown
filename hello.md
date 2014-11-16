@@ -25,7 +25,7 @@
 
 <br>
 
-- ~~abc
+- ~abc~
 - def
 
 <br>
