@@ -27,7 +27,7 @@
 - <del>bbb</del>
 - ccc
 
-1. aaa
+1. *aaa*
 2. bbb
 3. ccc
 
