@@ -27,6 +27,8 @@
 - <del>bbb</del>
 - ccc
 - ddd
+- eee
+
 
 1. *aaa*
 2. **bbb**
