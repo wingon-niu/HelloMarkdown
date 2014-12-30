@@ -31,8 +31,6 @@
 - eee
 
 ###abcabcabc###
-###abcabcabc###
-###abcabcabc###
 
 
 1. *aaa*
